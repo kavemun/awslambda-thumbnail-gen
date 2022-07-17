@@ -1,0 +1,1 @@
+# awslambda-thumbnail-gen
